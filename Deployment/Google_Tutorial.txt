@@ -1,0 +1,3 @@
+https://cloud.google.com/vision/automl/docs/edge-quickstart
+https://cloud.google.com/vision/automl/docs/tflite-android-tutorial
+https://github.com/tensorflow/tensorflow/issues/14719
